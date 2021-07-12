@@ -74,7 +74,7 @@ float aplicarDescuento(float precio)
     int porcentaje;
 
     porcentaje = 5;
-    descuento = precio * 5 / 100;
+    descuento = precio * porcentaje / 100;
     precioConDescuento = precio - descuento;
 
     return precioConDescuento;

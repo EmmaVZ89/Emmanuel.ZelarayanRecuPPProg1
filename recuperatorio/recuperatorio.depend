@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1626092383 source:c:\users\note\desktop\proyectos\utn\recuperatorio parcial 1 programacion\emmanuel.zelarayanrecuppprog1\recuperatorio\main.c
+1626092796 source:c:\users\note\desktop\proyectos\utn\recuperatorio parcial 1 programacion\emmanuel.zelarayanrecuppprog1\recuperatorio\main.c
 	<stdio.h>
 	<stdlib.h>
 	"string.h"
